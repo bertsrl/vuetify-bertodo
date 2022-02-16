@@ -47,7 +47,7 @@
 
       <v-img
         class="logo pa-4 pt-7"
-        src="logo.jpg"
+        src="logo.png"
         height="100"
       >
       </v-img>
